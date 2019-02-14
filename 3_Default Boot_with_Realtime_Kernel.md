@@ -35,8 +35,7 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
 GRUB_CMDLINE_LINUX=""
 ```
 
-**[CTRL] + O** save
-**[CTRL] + X** exit
+**[CTRL] + O** save and **[CTRL] + X** exit
 
 ## Check Kernel
 
